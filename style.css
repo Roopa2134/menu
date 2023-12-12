@@ -19,7 +19,6 @@ html,body {
 	transition: 0.5s;
 	display: flex;
 	justify-content: center;
-	/* align-items: center; */
 	padding-top: 100px;
 }
 
@@ -43,7 +42,6 @@ html,body {
 
 .navigation .menuToggle::before {
 	content: '';
-	/* position: absolute; */
 	width: 30px;
 	height: 2px;
 	background: #333;
